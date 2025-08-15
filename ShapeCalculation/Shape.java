@@ -1,4 +1,4 @@
-package Lab_7;
+package ShapeCalculation;
 
 public abstract class Shape {
     String name;

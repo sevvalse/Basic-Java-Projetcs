@@ -1,4 +1,4 @@
-package Lab_7;
+package ShapeCalculation;
 
 public class Cube extends Shape3D{
     Double x;

@@ -1,4 +1,4 @@
-package Lab_1;
+package CompanyEmployeeDemo;
 
 public class Main {
     public static void main(String[] args) {

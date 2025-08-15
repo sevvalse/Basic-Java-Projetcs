@@ -1,4 +1,4 @@
-package Lab_7;
+package ShapeCalculation;
 
 public abstract class Shape2D extends Shape implements PerimeterCalculation, AreaCalculation {
 

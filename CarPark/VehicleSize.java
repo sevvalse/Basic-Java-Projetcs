@@ -1,4 +1,4 @@
-package Lab_6;
+package CarPark;
 
 public enum VehicleSize {
     SMALL,

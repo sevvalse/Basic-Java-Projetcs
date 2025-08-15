@@ -1,4 +1,4 @@
-package Lab_5;
+package ProductClasses;
 
 public class ElectronicProduct extends Product {
     String Manufacturer;

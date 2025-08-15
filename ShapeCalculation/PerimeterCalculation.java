@@ -1,4 +1,4 @@
-package Lab_7;
+package ShapeCalculation;
 
 public interface PerimeterCalculation {
     public double calculatePerimeter();

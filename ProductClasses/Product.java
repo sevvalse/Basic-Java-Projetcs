@@ -1,4 +1,4 @@
-package Lab_5;
+package ProductClasses;
 
 abstract class Product {
     int ID;

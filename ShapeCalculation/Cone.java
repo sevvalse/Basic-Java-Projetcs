@@ -1,4 +1,4 @@
-package Lab_7;
+package ShapeCalculation;
 
 public class Cone extends Shape3D{
     double radius;

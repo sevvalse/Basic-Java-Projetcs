@@ -1,4 +1,4 @@
-package Lab_6;
+package CarPark;
 
 public abstract class Vehicle {
     private String licensePlate;

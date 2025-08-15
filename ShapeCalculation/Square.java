@@ -1,4 +1,4 @@
-package Lab_7;
+package ShapeCalculation;
 
 public class Square extends Shape2D{
     private double x;

@@ -1,4 +1,4 @@
-package Lab_7;
+package ShapeCalculation;
 
 import java.util.ArrayList;
 

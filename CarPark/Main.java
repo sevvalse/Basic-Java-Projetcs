@@ -1,4 +1,4 @@
-package Lab_6;
+package CarPark;
 
 import static java.io.IO.println;
 
