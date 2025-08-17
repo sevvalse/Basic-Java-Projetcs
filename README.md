@@ -81,3 +81,15 @@ This project simulates a weather station that provides real-time weather data to
 * Observer design pattern
 * Interfaces and their implementation
 * `ArrayList` for managing observers
+
+---
+
+### **8. Sports Club Membership System**
+
+This project is a simple sports club membership management system developed using fundamental object-oriented programming (OOP) principles. The system manages member data, calculates monthly fees based on membership type and age, and applies discounts based on visit frequency.
+
+**Topics Covered:**
+* Object-Oriented Programming (OOP)
+* Enums
+* Interfaces and their implementation
+* `ArrayList` for data management
