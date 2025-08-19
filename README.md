@@ -9,8 +9,7 @@ This is a console-based Hangman game where the player tries to guess a hidden wo
 * Error handling with `try-catch` blocks
 * Using `ArrayList` for dynamic data storage
 * Random number generation
-* Loops and conditional statements
-* String manipulation
+* Loops
   
 ---
 
@@ -30,7 +29,7 @@ This project simulates a simple car park management system. It models different 
 
 **Topics Covered:**
 * Object-Oriented Programming (OOP) principles (Inheritance, Abstraction, Polymorphism)
-* `enum` for defining constants
+* `Enum` for defining constants
 * `ArrayList` for data storage
 *  Method overriding
   
@@ -92,4 +91,16 @@ This project is a simple sports club membership management system developed usin
 * Object-Oriented Programming (OOP)
 * Enums
 * Interfaces and their implementation
-* `ArrayList` for data management
+* ArrayList for data management
+
+---
+
+### **9. Bank Account Management System**
+
+This project simulates a simple bank account management system using fundamental Java programming and exception handling concepts. The system can perform operations such as depositing, withdrawing, and transferring funds between accounts while providing specific error handling for situations like insufficient funds or invalid amounts.
+
+**Topics Covered:**
+* Object-Oriented Programming (OOP)
+* Exception handling (`try-catch` blocks)
+* Custom exception classes 
+
